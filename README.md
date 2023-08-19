@@ -29,3 +29,5 @@ title={SSIVD-Net: A Novel Salient Super Image Classification\&Detection Techniqu
 author={Toluwani Aremu and Liao Zhiyuan and Reem Alameeri and Mustaqeem Khan and Abdulmotaleb El Saddik},
 year={2023}
 }
+# Results
+Le projet implique l'entraînement de modèles CNN pour détecter des activités humaines suspectes dans des vidéos de surveillance. Une première version du modèle CNN a été entraînée sur plus de 12 000 images d'ensemble d'entraînement, mais a obtenu une précision de seulement 60% sur l'ensemble de test. Une version optimisée du modèle a ensuite été développée en ajoutant plusieurs couches pour extraire davantage de caractéristiques, ce qui a abouti à une précision de 98%. De plus, un modèle pré-entraîné (Inception V3) a été utilisé, atteignant une précision de 99,67% sur les images d'entraînement. Ces résultats ont conduit à la sélection du modèle optimisé pour la détection d'activités suspectes dans les vidéos de surveillance.
